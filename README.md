@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://medium.com/@madhaviuyanahewa" target="_blank" ><img src="https://github.com/MadhaviImashi/MadhaviImashi/blob/main/editedWallpaper.png" alt="Madhavi's Header section" width="2000" height="328"></a>
+  <a href="https://medium.com/@madhaviuyanahewa" target="_blank" ><img src="https://github.com/MadhaviImashi/MadhaviImashi/blob/main/editedWallpaper.png" alt="Madhavi's Header section" width="2000" height="328" style="opacity: 0.8;" opacity="0.5"></a>
 
   <br>
   
