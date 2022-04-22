@@ -2,7 +2,7 @@
   
 <h3>Hi there! 👋<br>I'm Madhavi Imashi<br>An Undergraduate student at SLIIT</h3> 
   
-  ![Imashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadhaviImashi&show_icons=true&theme=radical)
+<!--   ![Imashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadhaviImashi&show_icons=true&theme=radical) -->
   
 
 [<img align="center" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/madhaviuyanahewa/)
