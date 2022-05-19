@@ -1,6 +1,6 @@
 <div align="center">
   
-<h3>Hi there! 👋<br>I'm Madhavi Imashi<br>An Undergraduate student at SLIIT</h3> 
+<h3>Hey there! 👋<br>I'm Madhavi Imashi <br>An Undergraduate student at SLIIT</h3> 
   
 <!--   ![Imashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadhaviImashi&show_icons=true&theme=radical) -->
   
