@@ -1,8 +1,10 @@
+[![@imashi99's Holopin board](https://holopin.io/api/user/board?user=imashi99)](https://holopin.io/@imashi99)
+
 <div align="center">
   
 <!-- ![Your Repository's Stats](https://contrib.rocks/image?repo=MadhaviImashi/LMS_frontend) -->
   
-<h3>Hey there! 👋<br>I'm Madhavi Imashi <br>An Undergraduate student at SLIIT</h3> 
+<h3>Hey! I'm Madhavi Imashi <br>An Undergraduate student at SLIIT</h3> 
  
 
 [<img align="center" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/madhaviuyanahewa/)
@@ -14,6 +16,7 @@
   👉 Checkout my<a href="https://fabulous-starlight-e90aae.netlify.app/" target="_blank"> Website</a>
   
 </div>
+
 
 
 
