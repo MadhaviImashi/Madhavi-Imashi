@@ -4,7 +4,7 @@
   
 <!-- ![Your Repository's Stats](https://contrib.rocks/image?repo=MadhaviImashi/LMS_frontend) -->
   
-<h3>Hey! I'm Imashi Uyanahewa <br>An Undergraduate student at SLIIT</h3> 
+<h3>Hey! I'm Imashi Uyanahewa <br></h3> 
  
 
 [<img align="center" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/madhaviuyanahewa/)
